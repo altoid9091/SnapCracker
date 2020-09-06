@@ -1,4 +1,4 @@
-# alt HACK
+# SnapCracker by altoid
 
 #sudo apt-get install git
 
